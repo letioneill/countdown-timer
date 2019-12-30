@@ -20,13 +20,13 @@ Format the time in the timer before rendering it into the UI
 
 ### Part 3
 
-**Timer Start / Pause**  [Demo](https://letioneill.github.io/countdown-timer/31-timer-start-pause.html)
+**Timer Start / Pause**  [Demo](https://letioneill.github.io/countdown-timer/03-timer-start-pause.html)
 
 Add Start, Pause, and Restart buttons to the timer
 
 
 ### Part 4
 
-**Timer Reactive Data**  [Demo](https://letioneill.github.io/countdown-timer/32-timer-reactive-data.html)
+**Timer Reactive Data**  [Demo](https://letioneill.github.io/countdown-timer/04-timer-reactive-data.html)
 
 Modify the timer app to use reactive data
